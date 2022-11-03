@@ -1,0 +1,21 @@
+.banner {
+  padding: 150px 40px;
+}
+.container-banner {
+  color: white;
+  text-align: center;
+  height: 175px;
+}
+
+.container-banner h1 {
+  font-family: "Poppins";
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+
+.container-banner h2 {
+  font-family: "Open Sans";
+  font-size: 20px;
+  margin-bottom: 40px;
+  color: #B2B3B3;
+}

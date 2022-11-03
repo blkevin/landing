@@ -1,0 +1,12 @@
+.btn-order {
+  background: #3AC162;
+  padding: 13px 21px;
+  border-radius: 8px;
+  COLOR: white;
+  font-weight: 400;
+  opacity: 0.8;
+}
+
+.btn-order:hover {
+  opacity: 1;
+}
